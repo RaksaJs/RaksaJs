@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RaksaJs
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning computer science
+- 🌱 I’m currently learning computer science(Software Development)
 - 💞️ I’m looking to collaborate on programming
 - 📫 How to reach me ...
 
